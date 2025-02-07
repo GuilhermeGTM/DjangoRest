@@ -1,0 +1,2 @@
+markdown - utilizado pelo djangorest para fazer pagina de documentação
+django-filter -  facilita a utilização de filtros
