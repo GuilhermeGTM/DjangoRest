@@ -4,7 +4,7 @@
 # Sobre o projeto
 Esse projeto foi a primeira interação minha com DRF, na primeira etapa foi usado o models serializer, APIViews para os metodos HTTP. Na segunda etapa foi criado um CRUD genérico onde foi sobrescrito os metodos isso tudo na versão api/v1, na api/v2 foi utilizado os viewsets e routers, assim diminuindo muito as linhas de codigos, foi customizado os viewsets, relacionamentos entre os models e paginação de dados. Na terceira etapa foi feita autenticação via token, uso de permissões para determinados usuarios, limitador de numero de requisições com Throttling e customização de validação/serialização de dados atravez de funções. Na ultima etapa fizemos os testes com modulo requests e jsonpath, foi testado os métodos GET/POST/PUT/DELETE manualmente e por fim usando o pytest de forma automática. 
 
-## Layout web
+## Layout API testes
 ![Web 3](https://github.com/GuilhermeGTM/DjangoRest/blob/main/demo/3.png)
 ![Web 1](https://github.com/GuilhermeGTM/DjangoRest/blob/main/demo/1.png)
 ![Web 2](https://github.com/GuilhermeGTM/DjangoRest/blob/main/demo/2.png)
